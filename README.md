@@ -1,12 +1,35 @@
-# React + Vite
+# 🏡 Real Estate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive real estate website built using **React.js** and **Tailwind CSS**. This project showcases various properties, customer testimonials, and a sleek user interface optimized for both desktop and mobile views.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔥 Responsive layout with Tailwind CSS utility classes
+- 🖼️ Hero section with background image and animated headings
+- 📖 About section showcasing company information
+- 🏗️ Projects section with a horizontal image slider
+- 💬 Customer Testimonials section with ratings
+- 📩 Contact form with input validation
+- 📧 Newsletter subscription in footer
+- 📱 Mobile menu with smooth transitions
+- ✨ Framer Motion animations for smooth user experience
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+> Add screenshots of the UI here (home, about, projects, testimonials, etc.)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, JSX
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Assets:** Custom images & icons
+
+---
+
+## 📁 Folder Structure
+
